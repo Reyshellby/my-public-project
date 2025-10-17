@@ -51,16 +51,14 @@ main {
 }
 
 main img {
-    border-radius: 25px;
     position: relative;
     transition: all ease-in-out 0.3s;
-    width: 20%;
+    width: 50%;
     height: 20%;
 }
 
 main img:hover {
-    width: 21%;
-    height: 21%;
+    border-radius: 25px;
 }
 
 main h2 {
